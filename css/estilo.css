@@ -148,6 +148,9 @@
     margin-right: 150px;
     float: left;
   }
+  #red{
+    color: white;
+  }
  
 
 body{
@@ -194,7 +197,6 @@ body{
   }
   #red{
     font-size: 15px;
-
   }
   #redes{
     font-size: 20px;
@@ -258,6 +260,9 @@ body{
   }
   #texto{
     display: none;
+  }
+  #red{
+    font-size: 10px;
   }
   #redes{
     font-size: 20px;
